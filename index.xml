@@ -6,10 +6,19 @@
     <description>Recent content on M.T. Warren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mtwarren.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>To Be Announced</title>
+      <link>https://mtwarren.github.io/gallery/jehuty/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mtwarren.github.io/gallery/jehuty/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Specific Ion Effects</title>
@@ -17,11 +26,11 @@
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mtwarren.github.io/blog/specific-ion-effects-on-type-iii-mes/</guid>
-      <description>Specific ion effects have been a topic of immense interest and a solution sought after by multiple fields. Most of the current understanding has been developed with the help physical chemistry and new analytical methods. While other researchers in fields such as colloids have contributed, many questions remain.23 The importance of understanding ionic interactions that contribute to macromolecular properties can be seen directly today in advancements in proteomics and in respect to Dr.</description>
+      <description>Specific Ion Effects Specific ion effects have been a topic of immense interest and a solution sought after by multiple fields. Most of the current understanding has been developed with the help physical chemistry and new analytical methods. While other researchers in fields such as colloids have contributed, many questions remain.23 The importance of understanding ionic interactions that contribute to macromolecular properties can be seen directly today in advancements in proteomics and in respect to Dr.</description>
     </item>
     
     <item>
-      <title>Hugo</title>
+      <title>Interfacial Science &amp; Water</title>
       <link>https://mtwarren.github.io/gallery/hugo/</link>
       <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
       
@@ -30,7 +39,7 @@
     </item>
     
     <item>
-      <title>Microemulsions</title>
+      <title>Microemulsion Formulation</title>
       <link>https://mtwarren.github.io/gallery/image-title/</link>
       <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
       
@@ -39,30 +48,12 @@
     </item>
     
     <item>
-      <title>Osprey</title>
+      <title>Myċel Hair and Skin</title>
       <link>https://mtwarren.github.io/gallery/osprey/</link>
       <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
       
       <guid>https://mtwarren.github.io/gallery/osprey/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Rugged Fellows Guide</title>
-      <link>https://mtwarren.github.io/gallery/rugged-fellows-guide/</link>
-      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
-      
-      <guid>https://mtwarren.github.io/gallery/rugged-fellows-guide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://mtwarren.github.io/blog/specificioneffectsontypeiiimes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtwarren.github.io/blog/specificioneffectsontypeiiimes/</guid>
-      <description>Specific ion effects have been a topic of immense interest and a solution sought after by multiple fields. Most of the current understanding has been developed with the help physical chemistry and new analytical methods. While other researchers in fields such as colloids have contributed, many questions remain.23 The importance of understanding ionic interactions that contribute to macromolecular properties can be seen directly today in advancements in proteomics and in respect to Dr.</description>
     </item>
     
   </channel>
