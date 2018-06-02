@@ -1,0 +1,34 @@
++++
+title = "Specific Ion Effects on Type III Microemulsions"
+description = ""
+tags = [
+    "Specific Ion Effects",
+    "microemulsions",
+    "hofmeister",
+    "surfacatants",
+    "development",
+]
+date = "2018-06-01"
+categories = [
+    "Development",
+    "specific ion effects",
+]
++++
+
+##  Specific Ion Effects on Type III Microemulsions
+
+
+
+Specific ion effects have been a topic of immense interest and a solution sought after by multiple fields. Most of the current understanding has been developed with the help physical chemistry and new analytical methods. 
+While other researchers in fields such as colloids have contributed, many questions remain.23  The importance of understanding ionic interactions 
+that contribute to macromolecular properties can be seen directly today in advancements in proteomics and in respect to Dr. Franz Hofmeister,
+who is considered the father of specific ion effects.
+	
+Below is the poster presented at the 2018 SIS- 22nd International Symposium on Surfactants in Solution at the University of Oklahoma on current research.
+
+<img class="special-img-class" src="static/images/hs1.jpg" title="Fig. 1 Specific Ion Effects on Type III Microemulsions" caption="Fig. 1 Specific Ion Effects on Type III Microemulsions"/>
+	
+	Fig. 1 Specific Ion Effects on Type III Microemulsions
+	
+
+
