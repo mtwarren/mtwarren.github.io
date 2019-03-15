@@ -1,0 +1,31 @@
++++
+title = "HLD NAC: From Oil Well to Drug Delivery"
+description = ""
+tags = [
+    "Specific Ion Effects",
+    "microemulsions",
+    "hofmeister",
+    "surfacatants",
+    "development",
+]
+date = "2019-14-03"
+categories = [
+    "Development",
+    "specific ion effects",
+]
++++
+
+##  HLD NAC: From Oil Well to Drug Delivery
+
+
+
+
+	
+Below is the poster presented at the 2019 Laurence Reed Gas Conference at the University of Oklahoma on HLD NAC
+
+<img class="special-img-class" src="static/images/LRGCC final.jpg" title="Fig. 1 HLD NAC" caption="Fig. 1 HLD NAC"/>
+	
+	Fig. 1 Specific Ion Effects on Type III Microemulsions
+	
+
+
